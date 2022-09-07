@@ -1,0 +1,8 @@
+Results: 
+
+Reactants: 
+Compound: CaO | Used Amount: 231.000 g / 4.119 mol (LR)
+
+Products: 
+Compound: Ca  | Produced Amount: 165.095 g / 4.119 mol
+Compound: O2  | Produced Amount: 65.905 g / 2.060 mol
